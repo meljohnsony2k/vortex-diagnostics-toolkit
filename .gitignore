@@ -1,0 +1,6 @@
+__pycache__/
+vortex_backups/
+vortex_read_*.json
+vortex_diff_*.json
+vortex_invoice_*.html
+vortex_prefill.json
